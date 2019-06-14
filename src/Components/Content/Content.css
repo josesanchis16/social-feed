@@ -1,0 +1,30 @@
+.divContent {
+    position: relative;
+    height: 100%;
+}
+
+.divContent>div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.fa-sync-alt{
+    color: white;
+}
+
+.divBtnRefresh {
+    position: fixed;
+    right: 32px;
+    bottom: 32px;
+    background: #0084ff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    box-shadow: 0 0 10px 0 #454545;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

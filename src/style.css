@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+/* html {
+    height: 100%;
+} */
+
+.content{
+    justify-content:space-between;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}

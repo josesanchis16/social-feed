@@ -1,0 +1,23 @@
+header {
+    background: #0084ff;
+    height: 95px;
+}
+
+.divTitulo {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 15px;
+    background: linear-gradient(transparent, #00000050);
+}
+
+.divTitulo h1 {
+    font-size: 3.5em;
+    color: #eee;
+}
+
+@media (max-width: 600px){
+    .divTitulo h1 {
+        font-size: 2.5em;
+    }
+}

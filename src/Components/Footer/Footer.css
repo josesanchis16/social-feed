@@ -1,0 +1,11 @@
+footer {
+    background: #0084ff;
+    min-height: 100px;
+    position: sticky;
+    top: 0;
+}
+
+.footerContent {
+    background: linear-gradient(#00000050, transparent);
+    height: 100%;
+}
