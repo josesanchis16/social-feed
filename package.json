@@ -2,7 +2,7 @@
   "name": "feed-social-network",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://josesanchis16.github.io/social-feed/",
+  "homepage": "https://josesanchis16.github.io/social-feed/build",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
